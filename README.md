@@ -1,5 +1,7 @@
 # darkvoid (zed)
 
+![zed darkvoid](preview.png)
+
 ## Configuration
 
 place the `darkvoid.json` file to your zed themes folder, generally `$XDG_CONFIG/zed/themes`.
